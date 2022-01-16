@@ -1,0 +1,12 @@
+@media(max-width: 975px) {
+	.header__burger-menu {
+		display: inline-block;
+	}	
+	.header__contact-us-button {
+		display: none;
+	}
+	.header__menu-link {
+		display: none;
+	}
+
+}
